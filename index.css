@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.Background {
+  background-color: #1e293b;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.sub-Background {
+  margin-top: 180px;
+  margin-bottom: 220px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #f0bb03;
+  font-family: 'Bree Serif';
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+.para {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+  text-align: center;
+}
+.btn {
+  height: 40px;
+  width: 90px;
+  border-radius: 9px;
+  border-width: 0px;
+  color: #1e293b;
+  text-align: center;
+  font-weight: bold;
+  cursor: pointer;
+}
