@@ -1,2 +1,2 @@
 # Assignment-welcome
-Clink on link: https://tywrhjkdfs.ccbp.tech/
+Click on link: https://tywrhjkdfs.ccbp.tech/
